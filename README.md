@@ -17,5 +17,13 @@ A smart, OpenAI-powered web application that analyzes resumes and provides perso
 
 ---
 
-## 📁 Project Structure
+## Clone the Repo
+
+```bash
+git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
+cd ai-resume-analyzer
+
+📄 License
+MIT License. Free to use for personal and educational projects.
+
 
